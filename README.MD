@@ -1,4 +1,4 @@
-Example for eigen analysis for baseline graph convolution neural network in `eigen-analysis.ipynb`
+Example for eigen analysis for baseline graph convolution neural network in `eigen-analysis.ipynb`.Only top-100 eignevalues are plotted in my output figure. You may show more eigenvalues if you need.
 
 ## Graph Convolution Network for PyTorch
 Pytorch 1.0 with python 3.7.
